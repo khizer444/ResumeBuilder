@@ -1,4 +1,3 @@
-```markdown
 # Resume Builder App
 
 ## Overview
